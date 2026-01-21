@@ -39,7 +39,7 @@ The app follows a modular SwiftUI structure:
 ## UI Reference
 > Early-stage UI reference captured during development.
 
-![UI Reference](./assets/ui-reference.png)
+![UI Reference](./assets/ui-reference.jpg)
 
 ## How to Run
 Requires macOS with Xcode.
